@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 deep_learning_env
+kaggle_key.json
+.env
+
+# excluding DATA
+DATA
